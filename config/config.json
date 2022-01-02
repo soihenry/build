@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC866f81200f84f46e243B1e2bEc7E2dd03052AEF",
+  "SCAN_LINK": "https://polygonscan.com/address/0xC866f81200f84f46e243B1e2bEc7E2dd03052AEF",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cryptobuds Worldwide Sativa Drop",
+  "SYMBOL": "CRYPTOBUD",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptobuds-sativa-collection",
+  "SHOW_BACKGROUND": true
+}
